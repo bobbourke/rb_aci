@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/aci/__init__.py
+src/aci/apic_class.py
+src/aci/error_handling_class.py
+src/aci/tenant_class.py
+src/aci.egg-info/PKG-INFO
+src/aci.egg-info/SOURCES.txt
+src/aci.egg-info/dependency_links.txt
+src/aci.egg-info/top_level.txt

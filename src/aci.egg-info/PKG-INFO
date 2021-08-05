@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: aci
+Version: 0.1
+Summary: Python Class to work with ACI
+Home-page: https://github.com/bobbourke/rb_aci
+Author: Rob Bourke
+Author-email: bourke.bob@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENSE
+
+UNKNOWN
+

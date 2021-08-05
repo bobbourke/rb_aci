@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/rob_aci/__init__.py
+src/rob_aci/apic_class.py
+src/rob_aci/error_handling_class.py
+src/rob_aci/tenant_class.py
+src/rob_aci.egg-info/PKG-INFO
+src/rob_aci.egg-info/SOURCES.txt
+src/rob_aci.egg-info/dependency_links.txt
+src/rob_aci.egg-info/requires.txt
+src/rob_aci.egg-info/top_level.txt
